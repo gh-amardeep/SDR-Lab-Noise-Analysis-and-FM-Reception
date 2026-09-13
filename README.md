@@ -1,3 +1,23 @@
+# 📡 SDR Lab: Noise Analysis & FM Reception
+
+<p align="center">
+  <img src="output-images/Constellation_diagram.png" width="700">
+</p>
+
+<p align="center">
+  <b>Software-Defined Radio • DSP • Noise Analysis • FM Demodulation</b>
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Signal_Processing-8CAAE6?logo=scipy)
+![PlutoSDR](https://img.shields.io/badge/Hardware-PlutoSDR-orange)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+
+</p>
+
 ## 📌 Overview
 
 This notebook is designed as an introductory practical lab for Software-Defined Radio and signal processing.
