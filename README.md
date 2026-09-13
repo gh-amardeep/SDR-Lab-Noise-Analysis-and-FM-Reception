@@ -1,7 +1,7 @@
 # 📡 SDR Lab: Noise Analysis & FM Reception
 
 <p align="center">
-  <img src="output-images/Constellation_diagram.png" width="700">
+  
 </p>
 
 <p align="center">
