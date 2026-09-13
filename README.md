@@ -402,6 +402,32 @@ Execute the cells sequentially to:
 9. Test real-time FM processing
 
 ---
+---
+
+## 📊 Results and Visualizations
+
+### 1. Complex Signal Distribution
+
+The real and imaginary components of the received SDR samples are analyzed using histograms and Gaussian distributions.
+
+![Real and Imaginary Part Distribution](output-images/Histogram_analysis.png)
+
+---
+
+### 2. Frequency-Domain Analysis
+
+Power Spectral Density (PSD) is analyzed at different frequencies to compare signal activity and noise characteristics.
+
+![Frequency Analysis](output-images/Frequency_Analysis.png)
+
+---
+
+### 3. Constellation Diagram
+
+The constellation diagram shows the distribution of the real and imaginary components of the received complex SDR samples.
+
+![Constellation Diagram](output-images/Constellation_diagram.png)
+
 
 ## 🎯 Learning Objectives
 
